@@ -12,14 +12,20 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 
 also credit to joofi, I copied everything from him
 
-# [- rundyyy 2.0](https://rundyyy.s-ul.eu/IqgZGVCb) (Main NoMod)
-![](https://osu.ppy.sh/ss/13777661/33eb)
+# [Jace 6.25](https://joofixd.s-ul.eu/z3fROJ0t) (Main NoMod)
+![](https://osu.ppy.sh/ss/13484104/3041)
 
 # [rafis (mathi)](https://joofi.s-ul.eu/8vx1JdIA) (Main DT)
 ![](https://osu.ppy.sh/ss/12335794)
 
-# [boom 0524 edit](https://rundyyy.s-ul.eu/EsSUFPeC) (Main EZ)
+# [Millhiore Lite](https://drive.google.com/file/d/1o0iqgdhuh67lqX_s-sOseVHCv8enQrY-/view) (Main EZ)
+![](https://osu.ppy.sh/ss/14811948/0f16)
+
+# [boom 0524 edit](https://rundyyy.s-ul.eu/EsSUFPeC)
 ![](https://osu.ppy.sh/ss/13777710/3374)
+
+# [-+Asahi+-](https://drive.google.com/file/d/1hNepFpVZhCKVyQkiKQUlPJ0aJ4sTGXq2/view) (Main Taiko)
+![](https://osu.ppy.sh/ss/14811940/7b28)
 
 # [- ddddd aireuu -](https://snowy.s-ul.eu/1ByBQwhc) 
 ![](https://osu.ppy.sh/ss/12697828)
@@ -27,14 +33,15 @@ also credit to joofi, I copied everything from him
 # [Default](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ![](https://osu.ppy.sh/ss/13777719/9a74)
 
-# [Jace 6.25](https://joofixd.s-ul.eu/z3fROJ0t)
-![](https://osu.ppy.sh/ss/13484104/3041)
-
 # [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 ![](https://osu.ppy.sh/ss/13488989/a76a)
+
+# [- rundyyy 2.0](https://rundyyy.s-ul.eu/IqgZGVCb)
+![](https://osu.ppy.sh/ss/13777661/33eb)
 
 # [fierymod v8 realest ver](https://joofixd.s-ul.eu/SQYKdh0j)
 ![](https://osu.ppy.sh/ss/13421953/d40a)
 
 # [- MonkoYaong](https://www.dropbox.com/s/l9lxw92pzvz9njz/-%20MonkoYaong.osk?dl=0)
 ![](https://osu.ppy.sh/ss/11923433)
+
